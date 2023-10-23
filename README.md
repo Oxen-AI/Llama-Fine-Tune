@@ -3,7 +3,7 @@
 Grab the data
 
 ```
-oxen clone ox/Dad-Jokes
+oxen clone http://hub.oxen.ai/ox/Dad-Jokes
 ```
 
 Fine tune with LORA
